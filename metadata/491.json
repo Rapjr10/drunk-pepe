@@ -1,0 +1,40 @@
+{
+  "name": "Drunk Pepe #491 \u2014 'Sozzled Seth, The Spill Artist'",
+  "description": "Drunk Pepe #491 \u2014 'Sozzled Seth, The Spill Artist'. One of 1,000 FREE pixel-art drunk Pepes on Robinhood Chain. Half-body, scene backgrounds, worse drunks are rarer. Instant reveal \u2014 every image and trait is fixed before mint. No two Pepes drink alike.",
+  "image": "https://rapjr10.github.io/drunk-pepe/images/491.png",
+  "attributes": [
+    {
+      "trait_type": "Tier",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Face",
+      "value": "X-Eyed Drool"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Crossed X Eyes"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Cigarette"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Neon Street"
+    },
+    {
+      "trait_type": "Drunk Level",
+      "value": "Destroyed"
+    },
+    {
+      "trait_type": "Mint Phase",
+      "value": "Free"
+    },
+    {
+      "trait_type": "Batch",
+      "value": "Batch 5"
+    }
+  ],
+  "external_url": "https://REPLACE-WITH-MINT-SITE/"
+}

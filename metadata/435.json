@@ -1,0 +1,40 @@
+{
+  "name": "Drunk Pepe #435 \u2014 'Pickled Pete, Duke of Dizziness'",
+  "description": "Drunk Pepe #435 \u2014 'Pickled Pete, Duke of Dizziness'. One of 1,000 FREE pixel-art drunk Pepes on Robinhood Chain. Half-body, scene backgrounds, worse drunks are rarer. Instant reveal \u2014 every image and trait is fixed before mint. No two Pepes drink alike.",
+  "image": "https://rapjr10.github.io/drunk-pepe/images/435.png",
+  "attributes": [
+    {
+      "trait_type": "Tier",
+      "value": "Heavy"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Bulging Stare"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bulging Bloodshot"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Cigarette"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Messy Bedroom"
+    },
+    {
+      "trait_type": "Drunk Level",
+      "value": "Wasted"
+    },
+    {
+      "trait_type": "Mint Phase",
+      "value": "Free"
+    },
+    {
+      "trait_type": "Batch",
+      "value": "Batch 5"
+    }
+  ],
+  "external_url": "https://REPLACE-WITH-MINT-SITE/"
+}

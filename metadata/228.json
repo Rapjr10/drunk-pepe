@@ -1,0 +1,40 @@
+{
+  "name": "Drunk Pepe #228 \u2014 'Tipsy Tim, The Blackout Bandit'",
+  "description": "Drunk Pepe #228 \u2014 'Tipsy Tim, The Blackout Bandit'. One of 1,000 FREE pixel-art drunk Pepes on Robinhood Chain. Half-body, scene backgrounds, worse drunks are rarer. Instant reveal \u2014 every image and trait is fixed before mint. No two Pepes drink alike.",
+  "image": "https://rapjr10.github.io/drunk-pepe/images/228.png",
+  "attributes": [
+    {
+      "trait_type": "Tier",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Tipsy Stare"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Half-Closed Glassy"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "None"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Grungy Alley"
+    },
+    {
+      "trait_type": "Drunk Level",
+      "value": "Tipsy"
+    },
+    {
+      "trait_type": "Mint Phase",
+      "value": "Free"
+    },
+    {
+      "trait_type": "Batch",
+      "value": "Batch 3"
+    }
+  ],
+  "external_url": "https://REPLACE-WITH-MINT-SITE/"
+}
