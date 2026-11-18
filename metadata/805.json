@@ -28,6 +28,18 @@
       "value": "Destroyed"
     },
     {
+      "trait_type": "Shirt",
+      "value": "Purple Plain"
+    },
+    {
+      "trait_type": "Expression",
+      "value": "Tear Stream"
+    },
+    {
+      "trait_type": "Decoration",
+      "value": "Headband"
+    },
+    {
       "trait_type": "Mint Phase",
       "value": "Free"
     },

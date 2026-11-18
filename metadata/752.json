@@ -28,6 +28,18 @@
       "value": "Tipsy"
     },
     {
+      "trait_type": "Shirt",
+      "value": "Orange Camo"
+    },
+    {
+      "trait_type": "Expression",
+      "value": "Eyebrow Tilt"
+    },
+    {
+      "trait_type": "Decoration",
+      "value": "Sunglasses"
+    },
+    {
       "trait_type": "Mint Phase",
       "value": "Free"
     },

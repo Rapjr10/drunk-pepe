@@ -28,6 +28,18 @@
       "value": "Destroyed"
     },
     {
+      "trait_type": "Shirt",
+      "value": "Maroon Plaid"
+    },
+    {
+      "trait_type": "Expression",
+      "value": "Tear Stream"
+    },
+    {
+      "trait_type": "Decoration",
+      "value": "Eye Patch"
+    },
+    {
       "trait_type": "Mint Phase",
       "value": "Free"
     },

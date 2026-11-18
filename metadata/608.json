@@ -28,6 +28,18 @@
       "value": "Destroyed"
     },
     {
+      "trait_type": "Shirt",
+      "value": "Grey Plaid"
+    },
+    {
+      "trait_type": "Expression",
+      "value": "Eyebrow Tilt"
+    },
+    {
+      "trait_type": "Decoration",
+      "value": "Eye Patch"
+    },
+    {
       "trait_type": "Mint Phase",
       "value": "Free"
     },
